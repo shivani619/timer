@@ -1,0 +1,24 @@
+.app {
+  margin: auto;
+  margin-top: 60px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.timer {
+	padding: 50px 180px;
+	font-family: auto;
+
+	div {
+		text-align: center;
+	}
+
+	button {
+		border-color: black;
+	}
+
+	.max-limit {
+		color: red;
+	}
+}
